@@ -1,0 +1,17 @@
+● React is a JavaScript library. (This is not a Framework.)
+● React's main focus is to build UIs as quickly as possible.
+● React is designed to create a single-page application (SPA).
+	-->means a full website on a single page.
+● React is fast because it uses Virtual DOM.
+	==> If a website is built properly with React,
+	    it will only load once, and if any changes 
+	    are made to the source code, an algorithm 
+	    will only check for new changes and render 
+	    the specifically changed part rather than 
+	    rendering the whole page or DOM.
+
+● Famous Applications built with React:--
+	1) Netflix
+	2) Whatsapp web
+	3) Instagram
+	4) Airbnb
